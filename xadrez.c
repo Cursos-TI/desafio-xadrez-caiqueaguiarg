@@ -62,7 +62,7 @@ int main() {
                 if(direcao2 == 3){
                     printf("Direita\n");
                 } else if(direcao2 == 4){
-                    printf("Esquerda");
+                    printf("Esquerda\n");
                 }
             }
         }
